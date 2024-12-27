@@ -1,5 +1,7 @@
 
 > # Heart Disease Prediction Model
+![image](https://github.com/user-attachments/assets/51b1cfb6-7a20-4872-8fca-5c11b3f9de29)
+
 
 This repository contains a machine learning project for predicting heart disease using a dataset sourced from [Kaggle](https://www.kaggle.com/) consisting of 303 observations and 14 features. The project includes a Flask-based web application to provide predictions based on user inputs.
 
