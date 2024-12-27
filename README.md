@@ -28,7 +28,6 @@ Dataset used: [Heart Disease Predictions](https://www.kaggle.com/code/desalegnge
 
 ## Project Features
 
-- **Feature Selection:** Selection of top features for model building.
 - **Model Building:** Logistic Regression is used as the prediction model.
 - **Web Application:** A Flask-based interface for user input and prediction.
 
