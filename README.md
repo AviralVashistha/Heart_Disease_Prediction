@@ -28,7 +28,6 @@ Dataset used: [Heart Disease Predictions](https://www.kaggle.com/code/desalegnge
 
 ## Project Features
 
-- **Exploratory Data Analysis (EDA):** Data visualization and preprocessing steps.
 - **Feature Selection:** Selection of top features for model building.
 - **Model Building:** Logistic Regression is used as the prediction model.
 - **Web Application:** A Flask-based interface for user input and prediction.
@@ -67,10 +66,6 @@ pip install -r requirements.txt
 * `main.py`: The main Python script for running the Flask application.
 * `heart.csv`: The dataset file sourced from Kaggle.
 * `requirements.txt`: List of required Python libraries.
-
-## Model Performance
-
-The Logistic Regression model achieved an accuracy of **91%** on the test set after hyperparameter tuning.
 
 ## Future Work
 
